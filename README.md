@@ -28,14 +28,11 @@ Copy the **Raw File URL** from the section above. Make sure you have replaced th
 
 1.  Open your Cursor editor.
 2.  Look at the setting panel.
-3.  Jump to Indexing & Docs, click the **"Docs"** tab.
+3.  Jump to Indexing & Docs
+4.  Click the **"Add new docs..."** button or the large `+` icon to add a new source.
+5.  In the text box that appears, **paste the Raw URL** you copied from Step 0.
 
-### Step 2: Add New Docs
-
-1.  Click the **"Add new docs..."** button or the large `+` icon to add a new source.
-2.  In the text box that appears, **paste the Raw URL** you copied from Step 0.
-
-### Step 4: Name and Index
+### Step 2: Name and Index
 
 1.  After pasting the URL, Cursor will ask you to **provide a reference name** (an "alias" or "handle"). This is the most important part.
 2.  Type a short, memorable name that starts with `@`.
@@ -43,7 +40,7 @@ Copy the **Raw File URL** from the section above. Make sure you have replaced th
 3.  Click the **"Add"** or **"Done"** button.
 4.  Once finished, you will see **`@story`** (or whatever you named it) appear in your list of active documentation. Ensure the checkbox next to it is ticked.
 
-### Step 6: How to Use It (Verification)
+### Step 3: How to Use It (Verification)
 
 Now, your Cursor AI is "smart" about Story Protocol. Let's test it:
 
